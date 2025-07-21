@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn>=1.0
+tensorflow
+Pillow
+opencv-python-headless
+matplotlib
+keras
+tensorflow-hub
+transformers
+torch
+accelerate
+tqdm
+pyngrok
+requests
+streamlit

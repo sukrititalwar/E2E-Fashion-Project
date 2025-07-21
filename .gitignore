@@ -1,0 +1,14 @@
+# Ignore the large dataset folder
+clothes_tryon_dataset/
+
+# Ignore the models folder which can contain large files
+models/
+
+# Ignore large serialized files like pickle files
+*.pkl
+
+# Python and VS Code specific ignores
+__pycache__/
+.vscode/
+.ipynb_checkpoints/
+*.env
